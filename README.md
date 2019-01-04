@@ -1,3 +1,4 @@
+package.json
 ```
 {
   "name": "Decred-Bitcore",
