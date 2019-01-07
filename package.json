@@ -1,0 +1,29 @@
+{
+  "name": "decred",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bitcore-explorers": "Decred-Bitcore/bitcore-explorers#master",
+    "bitcore-lib": "Decred-Bitcore/bitcore#master-new",
+    "crypto-browserify": "Decred-Bitcore/crypto-browserify#master-legacy"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leon-do/decred-htlc-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leon-do/decred-htlc-notes/issues"
+  },
+  "homepage": "https://github.com/leon-do/decred-htlc-notes#readme",
+  "resolutions": {
+    "bitcore-lib/**/bn.js": "=2.0.4"
+  }
+}
