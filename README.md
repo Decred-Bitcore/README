@@ -15,8 +15,8 @@ package.json
   "license": "ISC",
   "dependencies": {
     "bitcore-explorers": "Decred-Bitcore/bitcore-explorers#master",
-    "bitcore-lib": "Decred-Bitcore/bitcore-lib#master",
-    "crypto-browserify": "Decred-Bitcore/crypto-browserify#master",
+    "bitcore-lib": "Decred-Bitcore/bitcore#master-new",
+    "crypto-browserify": "Decred-Bitcore/crypto-browserify#master-legacy",
   }
 }
 ```
