@@ -1,3 +1,9 @@
-npm install
+`npm install`
 
-node app.js
+or
+
+`yarn install`
+
+then
+
+`node app.js`
